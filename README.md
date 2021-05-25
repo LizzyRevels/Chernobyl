@@ -11,6 +11,7 @@ The Chernobyl disaster was a nuclear accident that occurred on 26 April 1986 at 
 
 Content
 This dataset presents concentration of Iodine-131 (I-131), Caesium-134 (Cs-134) and Caesium-137 (radiocaesium, Cs-137) as anaerosol particles which were measured in specific location and date.
+  <p>
 On each line, following information is given:
 
 country code
@@ -29,7 +30,6 @@ Data extracted from REM data bank at CEC Joint Research Centre Ispra. Data was d
 
 Inspiration
 In which area the air was mostly polluted?
----End Kaggle Description---
   
   <li>Create Jupyter notebook to prepare data.</li>
 
