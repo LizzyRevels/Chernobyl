@@ -36,6 +36,6 @@ In which area the air was mostly polluted?
     <p>
       -----------
   
-  <li>Create Jupyter notebook to prepare data.</li>
+  <li>Create Jupyter notebook ("chernobyl.ipynb") to prepare data ("chernobyl.csv").</li>
 
   <li>Create charts in Tableau.</li>
