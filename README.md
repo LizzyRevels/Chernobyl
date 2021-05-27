@@ -3,7 +3,7 @@
 This is a personal project to practice what I learned in the UNC Charlotte Data Analytics Bootcamp I completed this month (May 2021). 
 
 <ul>
-  <li>Download Chernobyl data from Kaggle. https://www.kaggle.com/lsind18/chernobyl-data-air-concentration</li>
+  <li>Download Chernobyl data ("CHERNAIR.csv") from Kaggle. https://www.kaggle.com/lsind18/chernobyl-data-air-concentration</li>
   <p></p>
 ---Kaggle Description---
   <p></p>
@@ -36,6 +36,6 @@ In which area the air was mostly polluted?
     <p>
       -----------
   
-  <li>Create Jupyter notebook to prepare data.</li>
+  <li>Create Jupyter notebook ("chernobyl.ipynb") to prepare data ("chernobyl.csv").</li>
 
   <li>Create charts in Tableau.</li>
